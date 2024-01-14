@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SrirakshaMS
-- 🌱 I’m currently learning python
 - 📫 How to reach me srirakshams15@gmail.com
 
 <!---
